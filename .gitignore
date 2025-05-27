@@ -176,3 +176,13 @@ cython_debug/
 
 classifier/*.csv
 *.csv
+*.pth
+*.pkl
+*.png
+jvgan_models
+lstm_models
+jvgan_thresholds
+anomaly_subgraphs
+.~lock*
+*.gpickle
+*.edgelist
